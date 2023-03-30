@@ -1,4 +1,4 @@
-# Projeto-TikoTeko
+# Projeto-PetTok
 
 Projeto feito para Jornada FullStack:
 
