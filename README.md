@@ -1,7 +1,7 @@
 <h1 align="center"> Pet Tok - Projeto feito para o Bootcamp Jornada FullStack (EBAC) </h1>
 
 <h2> Proposta do projeto:</h2>
--Desenvolver um clone do TikTok usando o react e firebase.
+-Desenvolver um clone do TikTok usando o React e Firebase.
 
 <h1 align="center"> Comandos para testar o projeto de maneira local </h1>
 
